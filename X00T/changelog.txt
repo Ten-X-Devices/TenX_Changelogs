@@ -56,4 +56,5 @@ Source changelogs:-
 Device changelogs:-
 =================
 
-***Unavailable***
+- Fixed dark camera issue in whatsapp and telegram.
+- Fixed random charging issues.
