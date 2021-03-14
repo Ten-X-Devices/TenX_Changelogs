@@ -1,0 +1,14 @@
+# TenX-OS
+
+Version:-
+Codename:-
+
+Source changelogs:-
+==================
+
+- Write the Source Changelogs here.
+
+Device changelogs:-
+=================
+
+- Write the Device Changelogs here (If any).
