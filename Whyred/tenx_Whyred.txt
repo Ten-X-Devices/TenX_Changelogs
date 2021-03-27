@@ -1,0 +1,86 @@
+Version:- 2.9
+Codename:- Cyan
+
+Source changelogs:-
+==================
+
+- Merged March Security Patches.
+- Fixed Reboots on the first boot.
+- Fixed Screenshot not being shown in Powermenu.
+- Turned off Random shits by default.
+- Improved FOD.
+- Fixed QS Footer text fonts not applying on instant.
+- Added new Bootanimation From @Roger_T.
+- Added CustomDoze.
+- Added Ambient display battery toggle.
+- Added AOD on charge.
+- Added Ambient & AOD brightness values.
+- Added Statusbar brightness control.
+- Added Small mobile type icon (Good old data indicator).
+- Added notification counter toggle.
+- Added Statusbar custom logo & color options.
+- Added Custom carrier label.
+- Added Smart pulldown options.
+- Added Statusbar clock options.
+- Added QS Footer Running services, edit, user icon, settings toggle.
+- Added 3-fingers swipe screenshot options.
+- Added Long swipe gestures actions.
+- Added option to set Gesture Deadzone.
+- Made Advanced Powermenu togglable.
+- Added option to disable QS in Lockscreen.
+- Added Edge lightning options.
+- Added HeadsUp options.
+- Added Kill app button on long press notifications.
+- Added Kill app QS Tile.
+- Added Noisy notifications toggle.
+- Added Navigation, Lockscreen & Ambient Music visualizer.
+- Added Smart Pixels (For supported devices).
+- Added Suspend actions.
+- Added option to block sensors.
+- Added Gaming mode.
+- Added Wake on charge toggle.
+- Added Pocket judge toggle.
+- Added Smart charging.
+- Added Faceunlock Port from PixelExperience (https://github.com/PixelExperience).
+- Added OnePlus Switch styles.
+- Added Double tap to trigger doze.
+- Added Adaptive playback.
+- Added support for Touch HAL (For supported devices).
+- Added option to set Ringtone for Dual sim.
+- Added Panel's for Data & Bluetooth.
+- Added option to Hide Gestural navigation hint bar.
+- Added Clipboard Toast toggle.
+- Added FPS info.
+- And more! Check them on our GitHub (https://github.com/TenX-OS).
+
+Device changelogs:-
+=================
+
+- Initial Official Build.
+- Removed redfin fp And using stock fp.
+- XiaomiParts: Fill primary accent color for some more icons.
+- Added moto dolby. 
+- Added xiaomiparts into whitelist.
+- Enabled AOSP Surfaceflinger.
+- WIFI : Disable logging. 
+- Introduce memory management tweaks.
+- addressed libdiaghal.so.
+- Enable Seamless Transfer.
+- Change from charging rapidly to Turbo charging.
+- Enable real time lockscreen charging current values.
+- Set custom RGB values for tianma panel.
+- Addded overlay Ultra Power Saving. 
+- address maor denials ( thanxz to Zeeshan Bro ).
+- Extended Kernel EAS Inside ...
+- merged Linux 4.4.263 tag.
+- Added Touchboost driver.
+- implemented usb fast charge mode.
+- Introduce simple MSM thermal solution.
+- thermal: simple: account for battery temperature in calculations.
+
+Notes:-
+=================
+
+- Selinux Enforcing
+- Safetynet pass without Magisk.
+- yono working too.
