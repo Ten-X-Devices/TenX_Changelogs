@@ -47,5 +47,4 @@ Device changelogs:-
 - Selinux Enforcing
 - SafetyNet Passed by default
 - Moved violetparts to system
-- Fix booting issue
 
