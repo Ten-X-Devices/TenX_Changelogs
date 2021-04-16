@@ -1,0 +1,49 @@
+#TenX-OS
+
+Version:- 3.0
+Codename:- Trident
+
+Source changelogs:-
+==================
+
+- Merged April Security patches.
+- Fixed bubble's crash.
+- Fixed FPS info in SELinux Enforcing.
+- Fixed RGB Accent Gradient picker issues after reset.
+- Fixed  power button Screen-off torch.
+- Fixed SELinux status in About Phone.
+- Improved swipe gestures vibration pattern.
+- Redesigned Settings homepage UI.
+- Redesigned Lockscreen bottom shortcuts.
+- Added VoWi-Fi icons.
+- Added Mobile Data & Wi-Fi Activity indicators with Toggle.
+- Added Ambient battery percentage Toggle.
+- Added a Toggle for Disco Mode.
+- Added QS Header image.
+- Added option to change QS Header image Height offset .
+- Added cool TenX Header images by @Roger_T.
+- Added Rounded corner settings.
+- Added option for Full screen apps.
+- Added option to show Battery in QS header.
+- Added QS System info.
+- Added QS date Usage.
+- Added QS Footer text color modes.
+- Added OxygenOS's Clear all notigication button.
+- Added OOS Clear all button color modes.
+- Added Partial screenshot.
+- Added Live volume steps.
+- Added Ambient battery bar & color modes.
+- Added Charging animations.
+- Added Ambient music ticker.
+- Added FOD icon picker & Animations.
+- Added Lockscreen charging info fonts.
+- Added Applock from PA.
+- Added About US Page.
+- Added OTA support.
+
+Device changelogs:-
+================
+
+- Initial Build 
+- Selinux Enforcing
+- Perf+ Kernel
