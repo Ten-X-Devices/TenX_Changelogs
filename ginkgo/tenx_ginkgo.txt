@@ -45,7 +45,5 @@ Device changelogs:-
 ================
 
 - Imported new XiaomiParts
-- Added vibration control on Xiaomi Parts
-- Update stock blobs from Miui 21.4.7
-- Quicksilver kernel upstreamed to v4.14.230
 - April Security patch
+- Invisible icons fix
