@@ -46,4 +46,5 @@ Device changelogs:-
 
 - Imported new XiaomiParts
 - April Security patch
-- Invisible icons fix
+- Invisible icons fixed
+- Quicksilver kernel upstreamed to v4.14.230
