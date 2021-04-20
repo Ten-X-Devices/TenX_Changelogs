@@ -45,4 +45,7 @@ Device changelogs:-
 - Clean Build 
 - Selinux Enforci
 - SafetyNet Passed Default 
+- Updated Device Tree To Latest 
+- Fixed Maintainer Name
+- Changed Kernel To Etherious
 
