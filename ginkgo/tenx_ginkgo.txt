@@ -47,3 +47,6 @@ Device changelogs:-
 - April Security patch
 - Invisible icons fixed
 - Imported new xiaomiParts
+- Kernel Upstremead to QuickSilverR 4.14.231
+- Added vibration control to XiaomiParts
+
