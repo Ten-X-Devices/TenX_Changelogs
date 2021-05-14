@@ -1,50 +1,65 @@
 #TenX-OS
 
-Version:- 3.0
-Codename:- Trident
+Version:- 3.1
+Codename:- Flash
 
 Source changelogs:-
 ==================
 
-- Merged April Security patches.
-- Fixed bubble's crash.
-- Fixed FPS info in SELinux Enforcing.
-- Fixed RGB Accent Gradient picker issues after reset.
-- Fixed  power button Screen-off torch.
-- Fixed SELinux status in About Phone.
-- Improved swipe gestures vibration pattern.
-- Redesigned Settings homepage UI.
-- Redesigned Lockscreen bottom shortcuts.
-- Added VoWi-Fi icons.
-- Added Mobile Data & Wi-Fi Activity indicators with Toggle.
-- Added Ambient battery percentage Toggle.
-- Added a Toggle for Disco Mode.
-- Added QS Header image.
-- Added option to change QS Header image Height offset .
-- Added cool TenX Header images by @Roger_T.
-- Added Rounded corner settings.
-- Added option for Full screen apps.
-- Added option to show Battery in QS header.
-- Added QS System info.
-- Added QS date Usage.
-- Added QS Footer text color modes.
-- Added OxygenOS's Clear all notigication button.
-- Added OOS Clear all button color modes.
-- Added Partial screenshot.
-- Added Live volume steps.
-- Added Ambient battery bar & color modes.
-- Added Charging animations.
-- Added Ambient music ticker.
-- Added FOD icon picker & Animations.
-- Added Lockscreen charging info fonts.
-- Added Applock from PA.
-- Added About US Page.
-- Added OTA support.
+* Merged May security patches.
+* Improved setting Ambient Battery Temperature & percentage.
+* Improved Oxygen OS like settings layout.
+* Improved brightness slider paddings.
+* Redesigned About Phone.
+* Redesigned TenX Settings.
+* Fixed keyguard/ui/lockscreen lag/bug.
+* Fixed QS Panel background image.
+* Fixed Suggestions card's Toggle.
+* Fixed In-call vibrations & Custom vibration pattern.
+* Added QQS Brightness slider.
+* Added Increasing ring feature.
+* Added Statusbar signal & Wi-Fi bar icons.
+* Added Statusbar Height options.
+* Added Seekbar styles.
+* Added a Toggle for QS Tile Mask.
+* Added QS Tile styles & custom tint options.
+* Added Switch styles.
+* Added UI styles.
+* Added Settings dashboard icons. Thanks to @Roger_T for the icons.
+* Added Blur intensity for QS Panel background image.
+* Added Statusbar/QS header weather image.
+* Added Statusbar Start & End Padding options.
+* Added Dual statusbar mod.
+* Added QS Row configs.
+* Added Oxygen OS & Android 12 QS Tile tint.
+* Added option to choose QS Header image from Storage.
+* Added Custom QS Tile size.
+* Added a Toggle to change volume panel position.
+* Added Expanded volume panel.
+* Added option to hide Statusbar in lockscreen>
+* Added Lockscreen background blur slider.
+* Added Blink Flashlight for calls & customisations including Blink rate.
+* Added Notifications opacity.
+* Added Lottie animation & size for Sammy clock styles.
+* Added Max lockscreen notifications count.
+
+Note:
+1. Restart SystemUI if any changes are not being applied.
+2. Set Network traffic to Expanded Header for Dual row network traffic.
+3. Don't set weather to statusbar if dual row is enabled, it'll break the systemui & will be fixed in the next build.
 
 Device changelogs:-
 =================
 
-- Selinux Enforcing
-- SafetyNet Passed by default
-- Moved violetparts to system
-
+-Fixed KCAL
+-Added Gcam
+-Added SimpleGallery & RetroMusic
+-Updated to redfin May fingerprint
+-Correct GBoard spacing
+-Redesign FPS Info
+-Increase minimum brightness level(antiflicker)
+-Enforce 24-bit audio for offload playback
+-Fixed loud speaker call volume control
+-Fixed delay on getting network service after boot
+-Boost audio output
+-Add Lottie animation header in violetparts
