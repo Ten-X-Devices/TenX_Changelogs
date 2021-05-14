@@ -1,0 +1,44 @@
+#TenX-OS
+
+Version: 3.1
+Codename: Flash
+
+* Merged May security patches.
+* Improved setting Ambient Battery Temperature & percentage.
+* Improved Oxygen OS like settings layout.
+* Redesigned About Phone.
+* Redesigned TenX Settings.
+* Fixed keyguard/ui/lockscreen lag/bug.
+* Fixed QS Panel background image.
+* Fixed Suggestions card's Toggle.
+* Fixed In-call vibrations & Custom vibration pattern.
+* Added Increasing ring feature.
+* Added Statusbar signal & Wi-Fi bar icons.
+* Added Statusbar Height options.
+* Added Seekbar styles.
+* Added a Toggle for QS Tile Mask.
+* Added QS Tile styles & custom tint options.
+* Added Switch styles.
+* Added UI styles.
+* Added Settings dashboard icons.
+* Added Blur intensity for QS Panel background image.
+* Added Statusbar/QS header weather image.
+* Added Statusbar Start & End Padding options.
+* Added Dual statusbar mod.
+* Added QS Row configs.
+* Added Oxygen OS & Android 12 QS Tile tint.
+* Added option to choose QS Header image from Storage.
+* Added Custom QS Tile size.
+* Added a Toggle to change volume panel position.
+* Added Expanded volume panel.
+* Added option to hide Statusbar in lockscreen>
+* Added Lockscreen background blur slider.
+* Added Blink Flashlight for calls & customisations including Blink rate.
+* Added Notifications opacity.
+* Added Lottie animation & size for Sammy clock styles.
+* Added Max lockscreen notifications count.
+
+Device Changes-
+
+* Official build
+* Changed kernel from Arrow to Sentinel
