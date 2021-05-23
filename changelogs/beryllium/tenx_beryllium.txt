@@ -41,4 +41,4 @@ Codename: Flash
 Device Changes-
 
 * Official build
-* Changed kernel from Arrow to Sentinel
+* Changed kernel from Arrow to Silvercore
